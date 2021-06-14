@@ -2,6 +2,6 @@
 
 The project facilitates the deletion of item from bag, adding and removing items, increasing the quantity of existing items and calculating the total amount.
 
-Technologies used: HTML, CSS, React JS.
+#### Technologies used: HTML, CSS, React JS.
 
-Project is guided by John Smilga.
+###### Project is guided by John Smilga.
